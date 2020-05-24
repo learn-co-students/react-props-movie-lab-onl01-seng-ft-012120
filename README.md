@@ -23,7 +23,7 @@ Following is the component tree. When fully rendered, there are **9**
     ├── MovieCard
     │   ├── CardFront
     │   └── CardBack
-    │
+    │ 
     └── MovieCard
         ├── CardFront
         └── CardBack
